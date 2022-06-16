@@ -1,2 +1,2 @@
 # QuandaleDingleBot
-This is a bot I made on app.photop.live
+## QuandaleDingleBot is a high detailed bot for app.photop.live
