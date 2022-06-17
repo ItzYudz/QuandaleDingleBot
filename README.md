@@ -29,11 +29,11 @@ Link: https://github.com/Kaioru/memefy#readme
 }`
 ### setInterval
 `setInterval(function() {
-  console.log("h)
+  console.log("e")
 }, time for interval (ex: 60000 (1 minute)))`
 ## Commands
 ### Prefix
-The prefix is qd (standing for Quandale Dingle), and the usage is `qd!commandname`
+The prefix is qd (standing for Quandale Dingle), and the usage is qd!commandname
 ### Help
 Sends a link to this github
 ### Quotes
@@ -47,14 +47,17 @@ Tells someone (or something) you entered in the body to shut the fuck up.
 ### Sexuality
 This is not based on anything, it's just random and picks between LGBTQ and has a 20% chance each and picks between 1% and 100% on how much you are on that sexuality
 ### Kaomoji
-Sends a random kaomoji ex: `ヽ( ^(00)^ )ノ`
+Sends a random kaomoji. ex: `ヽ( ^(00)^ )ノ`
 ### Hashtag
-Type something in the command body and it will post the body with a hashtag (#) before it ex: `QuandaleDingleBotIsCool` => `#QuandaleDingleBotIsCool`
+Type something in the command body and it will post the body with a hashtag (#) before it. ex: `QuandaleDingleBotIsCool` => `#QuandaleDingleBotIsCool`
 ### Spaceout
-Puts a space between each letter ex: `Quandale` => `Q u a n d a l e'
+Puts a space between each letter. ex: `Quandale` => `Q u a n d a l e`
 ### Spacierout
-Puts 1 more space every letter there is ex: `Dingle` => `D i  n   g    l     e`
+Puts 1 more space every letter there is. ex: `Dingle` => `D i  n   g    l     e`
 ### Exaggerate
 This adds another ed, er, or est to an existing ed, er, or est. (Hard to explain)
 ### Randomcase
-Randomly puts uppercases on the body you entered ex: `This is a random sentence.` => `tHIs iS AN RanDom senTEncE`
+Randomly puts uppercases on the body you entered. ex: `This is a random sentence.` => `tHIs iS AN RanDom senTEncE`
+## Credits
+### Abooby
+Abooby is the person who helped my coding 100% very poggers guy. Github: https://github.com/abooby1 ; Replit: https://replit.com/@abicamstudios ; Di
