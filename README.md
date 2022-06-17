@@ -1,7 +1,14 @@
 # QuandaleDingleBot
-QuandaleDingleBot is a high detailed bot for app.photop.live and has many fun commands for you to use!
+QuandaleDingleBot is a high detailed bot for https://app.photop.live and has many fun commands for you to use!
+## About
 ## Packages
 ### photop-client
+Photop Client is a library for creating bots for Photop. It works directly with the WebSocket instead of html to deliver minimal memory impact and ease of use. Link: https://github.com/spammy2/photop-client
+### random-text-meme
+Tired? we don't know how to help you! but we sure do have nice text emoji. ヽ(°∀°人^ヮ^)ﾉ
+
+Just look at those beautiful faces: ᶘಠᴥಠᶅ (・(oo)・) ᕕ( ᐛ )ᕗ ( ͡° ͜ʖ ͡°) 乁(ツ)ㄏ (ᵔᴥᵔ)
+Link: https://github.com/rkxtd/random-text-meme
 ## Functions
 ### getRandomInt
 `function getRandomInt(max) {
