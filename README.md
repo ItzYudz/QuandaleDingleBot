@@ -9,6 +9,19 @@ Tired? we don't know how to help you! but we sure do have nice text emoji. ヽ(�
 
 Just look at those beautiful faces: ᶘಠᴥಠᶅ (・(oo)・) ᕕ( ᐛ )ᕗ ( ͡° ͜ʖ ͡°) 乁(ツ)ㄏ (ᵔᴥᵔ)
 Link: https://github.com/rkxtd/random-text-meme
+### simple-json-db
+A simple, no-frills, JSON key-value storage engine for Node.JS with full test coverage.
+Link: https://github.com/nmaggioni/Simple-JSONdb#readme
+### culturedtext
+Give your text some culture
+Link: https://gitlab.com/BobyMCbobs/culturedtext#README
+### memefy
+have you ever wanted to transcend into a higher being?
+
+introducing memefy.js (pronounced me-me-fy jay-ass)
+
+the solution to all your memeing needs.
+Link: https://github.com/Kaioru/memefy#readme
 ## Functions
 ### getRandomInt
 `function getRandomInt(max) {
