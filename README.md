@@ -1,6 +1,5 @@
 # QuandaleDingleBot
 QuandaleDingleBot is a high detailed bot for https://app.photop.live and has many fun commands for you to use!
-## About
 ## Packages
 ### photop-client
 Photop Client is a library for creating bots for Photop. It works directly with the WebSocket instead of html to deliver minimal memory impact and ease of use. Link: https://github.com/spammy2/photop-client
@@ -58,6 +57,10 @@ Puts 1 more space every letter there is. ex: `Dingle` => `D i  n   g    l     e`
 This adds another ed, er, or est to an existing ed, er, or est. (Hard to explain)
 ### Randomcase
 Randomly puts uppercases on the body you entered. ex: `This is a random sentence.` => `tHIs iS AN RanDom senTEncE`
-## Credits
+## Credit
+### Me (ItzYudz)
+I am a very cool guy and I code, I am very poggers. Github: you know already ; Replit: https://replit.com/@yudzdoge ;
 ### Abooby
-Abooby is the person who helped my coding 100% very poggers guy. Github: https://github.com/abooby1 ; Replit: https://replit.com/@abicamstudios ; Di
+Abooby is the person who helped my coding 100% very poggers guy. Github: https://github.com/abooby1 ; Replit: https://replit.com/@abicamstudios ;
+### StackOverflow
+StackOverflow is a website to help coding questions and the site had all of my questions answered. 694/20 very good website and I would recommend. https://stackoverflow.com/questions
