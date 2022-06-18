@@ -1,0 +1,19 @@
+{
+  "name": "quandaledinglebot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "culturedtext": "^1.2.0",
+    "memefy": "^1.2.0",
+    "photop-client": "^3.4.1",
+    "random-text-meme": "^1.1.9",
+    "simple-json-db": "^2.0.0"
+  }
+}
